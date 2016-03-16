@@ -1,0 +1,48 @@
+body 					{	margin: 0;
+							padding: 0;
+							font-size: 13px;
+							font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif}
+
+svg text				{	font-size: 10px;}
+
+.clear					{	clear: both;}
+
+#currentdate			{	font-size: 12px;
+							font-weight: 700;}
+
+.mainContainer			{	width: 1000px;
+							margin: 20 auto 0;}
+
+.header h1				{	font-weight: 300;}
+
+.graph					{	width: 100%;
+							min-height: 100px;}
+
+.factoids				{	margin-bottom: 130px;}
+
+.fact					{	float:left;
+							margin-left: 50px}
+
+#avgSpeed				{	margin-left: -23px}
+
+.number					{	font-size: 36px;
+							font-weight: 300;}
+
+#firstfact				{	margin-left: 0;}
+
+.slider					{	position: relative;
+							top: -28px;
+							left: -31px;
+							width: 62px;
+							height: 72px;
+							background: url(img/slider.png);
+							background-size: 100%;
+							}
+
+.text					{	position: relative;
+							top: -80px;
+							left: -13;
+							font-size: 10px;
+							width:100px;}
+
+.signature				{	width: 100%;}
